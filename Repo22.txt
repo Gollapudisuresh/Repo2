@@ -1,0 +1,1 @@
+git should ignore the .txt files. should not allow newly created .txt files
